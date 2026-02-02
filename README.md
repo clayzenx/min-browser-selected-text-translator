@@ -9,3 +9,6 @@ Adds translating selected text by LibreTranslate
 * Provide your [libretranslate](https://docs.libretranslate.com/) api url and target translation language inside userscript
 * You can also configure styles for floating popup menu there
 * Restart Min.
+
+## Usage
+* You can double click the word or selecting text with alt/option key by default
